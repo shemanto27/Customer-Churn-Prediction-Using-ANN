@@ -1,5 +1,6 @@
 # Customer Churn Prediction Using ANN 
-[Customer Churn Prediction Using ANN-20250209T183532Z-001.zip](https://github.com/user-attachments/files/18725756/Customer.Churn.Prediction.Using.ANN-20250209T183532Z-001.zip)
+![1696988697120](https://github.com/user-attachments/assets/72baf324-f4a5-4b10-be61-dfaf4cc64ab4)
+
 
 This repository contains an Artificial Neural Network (ANN) model designed to predict customer churn. The goal is to help businesses identify at-risk customers and implement effective retention strategies.
 
